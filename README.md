@@ -8,7 +8,7 @@ Power lift, Independent Lift ( Cruise + Hover)
 
 1. eVTOL Aircraft Mass Modelling
     
-    ![Screenshot 2023-05-24 at 4.33.08 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f11e48e0-f48e-4122-85df-ca72195ce271/Screenshot_2023-05-24_at_4.33.08_PM.png)
+    https://www.notion.so/Weighting-ca7f86e776244654aa92df001a144c65?pvs=4#78ad5d8aaead48b397fa87681902fdd5
     
     typical climb rate = 5.83 m/s
     
