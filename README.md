@@ -8,7 +8,7 @@ Power lift, Independent Lift ( Cruise + Hover)
 
 1. eVTOL Aircraft Mass Modelling
     
-    https://www.notion.so/Weighting-ca7f86e776244654aa92df001a144c65?pvs=4#78ad5d8aaead48b397fa87681902fdd5
+    ![1](/assets/1.png "MarineGEO logo")
     
     typical climb rate = 5.83 m/s
     
