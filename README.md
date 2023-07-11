@@ -18,24 +18,22 @@ Power lift, Independent Lift ( Cruise + Hover)
     
     **Hover mode**⇒ actuator disk theory: The ideal power required to hover (Phv,i). T = W( assumption) 
     
-    ![Screenshot 2023-05-24 at 4.41.01 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d73b1c2-15c5-4ff0-bc37-0f363081f28c/Screenshot_2023-05-24_at_4.41.01_PM.png)
+     ![2](/assets/2.png "MarineGEO logo")
     
     Figure of Merit( FM) is introduced to account for lose due ot profile drag. 
     
-    ![Screenshot 2023-05-24 at 4.43.25 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56a09463-1207-4a5b-aedd-c4b2ce8ba4e7/Screenshot_2023-05-24_at_4.43.25_PM.png)
+     ![3](/assets/3.png "MarineGEO logo")
     
     The power required for vertical flight is determined from a ratio of the hover power and the power induced by the relative vertical velocity (Vv) that the aircraft encounters. This is called the power ratio [22]. The power ratio for the climb can be expressed as:
     
-    ![Screenshot 2023-05-24 at 9.36.32 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/467e8f20-6f1a-40d4-af02-b011f08ad0d7/Screenshot_2023-05-24_at_9.36.32_PM.png)
+     ![4](/assets/4.png "MarineGEO logo")
     
-    ![Screenshot 2023-05-24 at 9.43.13 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/157321b4-969a-4716-aef5-d167c22c106e/Screenshot_2023-05-24_at_9.43.13_PM.png)
-    
+   
     **Cruise mode:** Power required: 
     
-    ![Screenshot 2023-05-24 at 9.47.36 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/672add5b-cb74-4f37-a57f-3d6b02546a28/Screenshot_2023-05-24_at_9.47.36_PM.png)
-    
+     ![5](/assets/5.png "MarineGEO logo")
     where: 
     
-    ![Screenshot 2023-05-24 at 9.48.51 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fff9541c-bac9-4208-8995-64e1c6654836/Screenshot_2023-05-24_at_9.48.51_PM.png)
+     ![6](/assets/6.png "MarineGEO logo")
     
     Parasite drag: ⇒ used chapter 12 of Daniel P. Raymer - Aircraft Design_ A Conceptual Approach-American Institute of Aeronautics and Astronautics Inc. (2018)
